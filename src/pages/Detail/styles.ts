@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native';
-import Constants from 'expo-constants'
+import Constants from 'expo-constants';
 
 const styles = StyleSheet.create({
   container: {
@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
     fontFamily: 'Roboto_400Regular',
     fontSize: 16,
     lineHeight: 24,
-    color: '#6C6C80'
+    color: '#4775d1'
   },
 
   address: {
